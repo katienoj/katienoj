@@ -1,32 +1,44 @@
-### Hi there 👋, I'm John!
-<!--
-<a href="https://twitter.com/katienoj">
-  <img align="left" alt="John Katieno | Twitter" width="21px" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/twitter.png"/>
-</a>
-<a href="https://medium.com/@katienoj">
-  <img align="left" alt="John Katieno | Medium" width="21px" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/medium.png"/>
-</a>
--->
-- 🌱 I’m currently learning React
-- 📫 How to reach me: <a href="https://twitter.com/katienoj">@katienoj</a> 
+### 👋🏽  John Katieno
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=katienoj&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=katienoj&layout=compact&count_private=true)
-<!--
-My Repos
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=katienoj&repo=vennfig&show_owner=true)](https://github.com/katienoj/vennfig)
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=katienoj&repo=statsfig&show_owner=true)](https://github.com/katienoj/statsfig)
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=katienoj&repo=covid-19-stats&show_owner=true)](https://github.com/katienoj/covid-19-stats)
--->
+ 🔭 I’m currently working on ... React, graphql, firebase cool apps.
+    
+ ⚡ Fun fact: ... Everything is fun, if you are creative enough!
+ 
 
-**Languages and Tools:**  
+![Profile views](https://gpvc.arturio.dev/katienoj) 
+<img src="https://img.shields.io/github/followers/katienoj?label=Follow" style=" float:left, margin-right:10px" />
+![Twitter URL](https://img.shields.io/twitter/follow/katienoj?label=Follow&style=social)
 
-<!--
-<code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/rust.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/javascript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/php.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/vim.png"></code>  
- -->
+---
+
+
+### Tech & Tools Preference
+
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<br>
+<img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-%F0%9F%92%85%20styled--components-orange.svg?color=ffffff">
+<img src="https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql&logoColor=white">
+<br>
+<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
+<img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
+<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+
+### Backend Languages and Frameworks I know
+<img src="https://img.shields.io/badge/-Nodejs-red?style=flat&logo=ror&logoColor=white"> 
+<img src="https://img.shields.io/badge/-Java-white?style=flat&logo=ruby&logoColor=red">
+<img src="https://img.shields.io/badge/-Php-white?style=flat&logo=ruby&logoColor=red"> 
+
+
+### Portfolio
+www.ragot.com
+
+---
+
+
+![Johns's github stats](https://github-readme-stats.vercel.app/api?username=katienoj&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
