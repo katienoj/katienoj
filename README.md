@@ -21,7 +21,7 @@ My Repos
 
 **Languages and Tools:**  
 
-
+<!--
 <code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/jupyter-notebook.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/rust.png"></code>
@@ -29,4 +29,4 @@ My Repos
 <code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/visual-studio-code.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/katienoj/katienoj/master/assets/vim.png"></code>  
- 
+ -->
