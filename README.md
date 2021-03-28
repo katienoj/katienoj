@@ -11,7 +11,7 @@
 - 📫 How to reach me: <a href="https://twitter.com/katienoj">@katienoj</a> 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=katienoj&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=katienoj&layout=compact)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=katienoj&layout=compact&count_private=true)
 <!--
 My Repos
 [![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=katienoj&repo=vennfig&show_owner=true)](https://github.com/katienoj/vennfig)
