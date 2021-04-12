@@ -1,5 +1,5 @@
- 🔭 I’m currently Learning on ... React, graphql, firebase cool apps.
- ⚡ Fun fact: ... Everything is fun, if you are creative enough!
+ 🔭 I’m currently Learning: React, graphql, firebase cool apps.
+ ⚡ Fun fact: Everything is fun, if you are creative enough!
  
  
 
